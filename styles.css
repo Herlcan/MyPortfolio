@@ -1,12 +1,12 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+    background: linear-gradient(135deg, #4700D8 15%, #F900BF 30%, #9900F0 60%, #FF85B3 100%);
     color: white;
 }
 
 header {
-    background-color: #1e3c72;
+    background-color: #4700D8;
     padding: 20px;
 }
 
@@ -49,12 +49,12 @@ section {
 }
 
 .project-card {
-    background-color: #2a5298;
+    background-color: null;
     margin: 20px;
     padding: 20px;
     border-radius: 8px;
     display: inline-block;
-    width: 50%;
+    width: 30%;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s;
 }
